@@ -30,6 +30,17 @@ If the answer to all of these question is YES, then you have identified the *Pis
 
 ## Figures
 
+```{r pisaster-ochraceus-anatomy, fig.align = 'left', out.width = "85%", out.height = "60%", fig.cap = "Overview of  Pisaster ochraceus' anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "pisaster-morphology-anatomy.png"))
+```
+
+```{r pisaster-ochraceus-stellate-ossicles, fig.align = 'left', out.width = "45%", out.height = "30%",fig.cap = "Close up of stellate ossicle pattern in Pisaster ochraceus.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "pisaster-ossicles.png"))
+```
+
+```{r pisaster-ochraceus-arms-to-disk, fig.align = 'left', out.width = "45%", out.height = "30%",fig.cap = "Comparison of disk to arm ratio for Pisaster ochraceus.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "pisaster-arms.png"))
+```
 \newpage 
 \newpage 
 # *Evasterias troschelii* (Mottled Star)
@@ -55,6 +66,18 @@ If the answer to all of these question is YES, then you have identified the *Eva
 
 ## Figures
 
+```{r evasterias-anatomy, fig.align = 'left', out.width = "85%", out.height = "60%", fig.cap = "Overview of  Evasterias troschelii's anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "evasterias-anatomy.jpg"))
+```
+
+```{r evasterias-troschelii-ossicles, fig.align = 'left', out.width = "75%", out.height = "75%",fig.cap = "Close up of net-like (left) and pentagonal (right) ossicle patterns in Evasterias troschelii.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "evasterias-ossicles-comparison.png"))
+```
+
+```{r evasterias-troschelii-arms-to-disk, fig.align = 'left', out.width = "40%", out.height = "20%",fig.cap = "Comparison of disk to arm ratio for Evasterias troschelii.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "evasterias-arms.png"))
+```
+
 \newpage
 
 # *Patiria miniata* (Bat Star)
@@ -76,6 +99,17 @@ If the answer to all of these question is YES, then you have identified the *Eva
 If the answer to all of these question is YES, then you have identified the *Patiria miniata* (Bat Star)!
 
 ## Figures
+
+```{r patiria-miniata-anatomy, fig.align = 'left', out.width = "75%", out.height = "50%", fig.cap = "Overview of  Patiria miniata's anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "patiria-morph-anatomy.jpg"))
+```
+```{r patiria-ossicles, fig.align = 'left', out.width = "39%", out.height = "27%",fig.cap = "Close up of crescent-shaped ossicles of Patiria miniata. Ps: The internet did not have great photos of this phenomenon.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "patiria-ossicles.png"))
+```
+
+```{r oatiria-arms-to-disk, fig.align = 'left', out.width = "60%", out.height = "40%",fig.cap = "Comparison of disk to arm ratio for Patiria miniata.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "patiria-arms.png"))
+```
 
 \newpage 
 
@@ -100,6 +134,17 @@ If the answer to all of these question is YES, then you have identified the *Pat
 If the answer to all of these question is YES, then you have identified the *Dermasterias imbricata* (Leather Star)!
 
 ## Figures
+
+```{r dermasterias-morph, fig.align = 'left', out.width = "36%", out.height = "30%", fig.cap = "Dermasterias imbricata's smooth and leathery texture, with no ossicles.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "dermasterias-morph.png"))
+```
+
+```{r dermasterias-arms-to-disk, fig.align = 'left', out.width = "40%", out.height = "30%",fig.cap = "Comparison of disk to arm ratio for ermasterias imbricata.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "dermasterias-arms.png"))
+```
+```{r dermasterias-anatomy, fig.align = 'left', out.width = "75%", out.height = "50%", fig.cap = "Overview of Dermasterias imbricata's anatomy (aboral view) and morphological diversity.", fig.cap.align = 'left', echo=FALSE}
+knitr::include_graphics(here::here("images", "dermasterias-morphs.jpg"))
+```
 
 \newpage 
 
